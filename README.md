@@ -1,3 +1,6 @@
+e-commerce
+
+
 # Smartshop
 An e-commerce php/mysql website built from scratch to get started with as a starter template
 
